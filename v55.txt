@@ -11,21 +11,21 @@
   <title>RK5 🔅 Dokumenter Pulau Terpencil Indonesia – Jelajahi Keindahan Nusantara</title>
   <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpciWqSOkNem-Il-HbaUgfakfmrZwM9He3t_5P5O_awd_a7zU7INoDGRiy-hMYEAI83B3Ruua6VW7FNW0Di3tlR5lV0MBDOXKW2neq2AORUoIJvmMCaCx5rs5knyhJ4ZSUdIlMstnA46k61DH113wZFmmH_vpOCO6yIZ0Z_N9mJ1yEaICm3haRX_RfKYM4/s1600/photo_2026-10-28_17-02-55%20(2).jpg" />
   <meta property="og:image:secure_url" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpciWqSOkNem-Il-HbaUgfakfmrZwM9He3t_5P5O_awd_a7zU7INoDGRiy-hMYEAI83B3Ruua6VW7FNW0Di3tlR5lV0MBDOXKW2neq2AORUoIJvmMCaCx5rs5knyhJ4ZSUdIlMstnA46k61DH113wZFmmH_vpOCO6yIZ0Z_N9mJ1yEaICm3haRX_RfKYM4/s1600/photo_2026-10-28_17-02-55%20(2).jpg" />
-  <meta property="og:url" content="https://milkbagsunlimited.ca/products/"/>
-  <meta property="og:canonical" content="https://milkbagsunlimited.ca/products/"/>
-  <meta property="og:author" content="https://milkbagsunlimited.ca/products/"/>
-  <link rel="canonical" href="https://milkbagsunlimited.ca/products/"/>
+  <meta property="og:url" content="https://newsys-prod.votec.jp/"/>
+  <meta property="og:canonical" content="https://newsys-prod.votec.jp/"/>
+  <meta property="og:author" content="https://newsys-prod.votec.jp/"/>
+  <link rel="canonical" href="https://newsys-prod.votec.jp/"/>
   <link rel="amphtml" href="https://situs-no1-indonesia.pages.dev/v55" />
-<link rel="alternate" href="https://milkbagsunlimited.ca/products/"> 
-<link rel="alternate" href="https://milkbagsunlimited.ca/products/" hreflang="id">
-<link rel="alternate" href="https://milkbagsunlimited.ca/products/" hreflang="en">
-<link rel="alternate" href="https://milkbagsunlimited.ca/products/" hreflang="en">
-<link rel="alternate" href="https://milkbagsunlimited.ca/products/" hreflang="x-default">
-<link rel="alternate" hreflang="id-ID" href="https://milkbagsunlimited.ca/products/" />
-<link rel="alternate" hreflang="en-US" href="https://milkbagsunlimited.ca/products/" />
-<link rel="alternate" hreflang="en-SG" href="https://milkbagsunlimited.ca/products/" />
+<link rel="alternate" href="https://newsys-prod.votec.jp/"> 
+<link rel="alternate" href="https://newsys-prod.votec.jp/" hreflang="id">
+<link rel="alternate" href="https://newsys-prod.votec.jp/" hreflang="en">
+<link rel="alternate" href="https://newsys-prod.votec.jp/" hreflang="en">
+<link rel="alternate" href="https://newsys-prod.votec.jp/" hreflang="x-default">
+<link rel="alternate" hreflang="id-ID" href="https://newsys-prod.votec.jp/" />
+<link rel="alternate" hreflang="en-US" href="https://newsys-prod.votec.jp/" />
+<link rel="alternate" hreflang="en-SG" href="https://newsys-prod.votec.jp/" />
 <meta name="google-site-verification" content="rC8eXDVwdqP1ZUQ4JT5CIIBuCid-ciOZGDyRANIihdw" />
-<link rel="alternate" hreflang="x-default" href="https://milkbagsunlimited.ca/products/"/>
+<link rel="alternate" hreflang="x-default" href="https://newsys-prod.votec.jp/"/>
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js" type="text/javascript" async=""></script>
   <meta name="title" content="RK5 🔅 Dokumenter Pulau Terpencil Indonesia – Jelajahi Keindahan Nusantara" />
   <meta name="description" content="RK5 Temukan kisah dokumenter penjelajahan pulau-pulau terpencil di Indonesia, mulai dari pantai tersembunyi, kehidupan masyarakat lokal, kekayaan alam, hingga keanekaragaman hayati. Saksikan pesona Nusantara melalui cerita perjalanan, eksplorasi, dan budaya yang jarang diketahui."/>
@@ -44,8 +44,8 @@
   <link rel="preload" as="font" crossorigin="anonymous" href="https://www.footlocker.id/static/version1767024442/frontend/Footlocker/default/id_ID/WeltPixel_DesignElements/fonts/Simple-Line-Icons.woff2" />
   <link rel="preload" as="font" crossorigin="anonymous" href="https://www.footlocker.id/static/version1767024442/frontend/Footlocker/default/id_ID/WeltPixel_DesignElements/fonts/lined-icons.woff2" />
   <link rel="preload" as="font" crossorigin="anonymous" href="https://www.footlocker.id/static/version1767024442/frontend/Footlocker/default/id_ID/WeltPixel_DesignElements/fonts/font-icons.woff2" />
-  <link rel="canonical" href="https://milkbagsunlimited.ca/products/"/>
-  <link rel="alternate" hreflang="x-default" href="https://milkbagsunlimited.ca/products/"/>
+  <link rel="canonical" href="https://newsys-prod.votec.jp/"/>
+  <link rel="alternate" hreflang="x-default" href="https://newsys-prod.votec.jp/"/>
   <link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyzORBhOOjc7UsdeqB0Nz49FG7snm12lTu9esOiQi_jN3a90W0ys7v-LNr-WcMlViuZKbCz9l0WUNeUmzOBQ_T_-KBeSFU285uBaBpEp4oc9eta_P15ersrrTr40xE8Id-QVXSIDSx2s6kI3rl-Da0Hi5MWrpIlaPbCo48uLuNlWtmYFnOGthCv6G8y1uK/w200-h200/photo_2026-10-28_17-02-55.jpg" />
   <link rel="shortcut icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyzORBhOOjc7UsdeqB0Nz49FG7snm12lTu9esOiQi_jN3a90W0ys7v-LNr-WcMlViuZKbCz9l0WUNeUmzOBQ_T_-KBeSFU285uBaBpEp4oc9eta_P15ersrrTr40xE8Id-QVXSIDSx2s6kI3rl-Da0Hi5MWrpIlaPbCo48uLuNlWtmYFnOGthCv6G8y1uK/w200-h200/photo_2026-10-28_17-02-55.jpg" />
   <style type="text/css">
@@ -1254,7 +1254,7 @@ Color Disclaimer:
 
 Actual colors may vary. This is due to the fact that every computer monitor has a different capability to display colors, we cannot guarantee that the color you see accurately portrays the true color of the product.
 " />
-  <meta property="og:url" content="https://milkbagsunlimited.ca/products/"/>
+  <meta property="og:url" content="https://newsys-prod.votec.jp/"/>
   <meta property="product:price:amount" content="9999.00" />
   <meta property="product:price:currency" content="IDR" />
   <meta property="product:availability" content="instock" />
@@ -1826,7 +1826,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             <div class="row">
               <div class="col-md-offset-0 col-md-2 col-xs-7 col-lg-2 col-sm-offset-0 col-sm-7 h-logo responsive-main-header">
                 <span class="action nav-toggle"><span>Toggle Nav</span></span>
-                <a class="logo" href="https://milkbagsunlimited.ca/products/"title="" aria-label="store logo">
+                <a class="logo" href="https://newsys-prod.votec.jp/"title="" aria-label="store logo">
                   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9CjFo78CdNaevQ84vzMTUmSkmhM_-N9zlU3nINv-hgS_zw4vUWtilmq3f8IgdIpg62NNwwzD3OUFyOpOYEVcjMXL38lxIMrNqsHBgOsu-rX8GVIhyphenhyphenzw2v4Ih7XY2RboTAcftGBC1Iy9JceTdJ9ZGWJ8w4g8KzBUq1IGqUrgsKQln0M5t5AvCtIfWOfkPH/w320-h107/ChatGPT%20Image%2018%20Sep%202026,%2019.25.56.png" title="" alt="RK5 logo" width="170" />
                 </a>
               </div>
@@ -1917,13 +1917,13 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     <nav class="navigation" data-action="navigation">
                       <ul id="nav17685419036969cecf04b7f" class="nav17685419036969cecf04b7f ui-menu ui-widget ui-widget-content" data-toggle-mobile-nav="false" role="menu" tabindex="0" aria-activedescendant="ui-id-8">
                         <li id="vesitem-7381768541902449662241" class="nav-item level0 nav-1 submenu-left subhover dropdown level-top category-item ui-menu-item">
-                          <a href="https://milkbagsunlimited.ca/products/"title="RK5" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-2" tabindex="-1" role="menuitem"><span>RK5</span></a>
+                          <a href="https://newsys-prod.votec.jp/"title="RK5" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-2" tabindex="-1" role="menuitem"><span>RK5</span></a>
                         </li>
                         <li id="vesitem-112617685419021512837329" class="nav-item level0 nav-2 submenu-alignleft subhover dropdown level-top category-item ui-menu-item">
-                          <a href="https://milkbagsunlimited.ca/products/"title="SLOT GACOR" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-3" tabindex="-1" role="menuitem"><span>SLOT GACOR</span></a>
+                          <a href="https://newsys-prod.votec.jp/"title="SLOT GACOR" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-3" tabindex="-1" role="menuitem"><span>SLOT GACOR</span></a>
                         </li>
                         <li id="vesitem-9671768541902261764118" class="nav-item level0 nav-3 submenu-left subhover dropdown level-top category-item parent ui-menu-item">
-                          <a href="https://milkbagsunlimited.ca/products/"title="CASSINO ONLINE" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-4" tabindex="-1" role="menuitem"><span>CASSINO ONLINE</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
+                          <a href="https://newsys-prod.votec.jp/"title="CASSINO ONLINE" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-4" tabindex="-1" role="menuitem"><span>CASSINO ONLINE</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
                           <div class="submenu dropdown-menu ui-menu-item-wrapper" style="width: 100%" id="ui-id-5" tabindex="-1" role="menuitem">
                             <div class="drilldown-back">
                               <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
@@ -1935,7 +1935,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                     <div class="item-content1 hidden-xs hidden-sm">
                                       <div class="mega-col mega-col-6 mega-col-level-1 col-xs-12">
                                         <div id="vesitem-92817685419022118842600" class="nav-item level1 nav-3-1 submenu-alignleft subhover dropdown-submenu category-item parent">
-                                          <a href="https://milkbagsunlimited.ca/products/"title="Sepatu" target="_self" class="nav-anchor"><span>Sepatu</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
+                                          <a href="https://newsys-prod.votec.jp/"title="Sepatu" target="_self" class="nav-anchor"><span>Sepatu</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
                                           <div class="submenu dropdown-menu" style="width: 100%">
                                             <div class="drilldown-back">
                                               <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
@@ -1948,7 +1948,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                       <div class="mega-col mega-col-10 mega-col-level-2 col-xs-12">
                                                         <div class="menu-side">
                                                           <div id="vesitem-10861768541902563911989" class="nav-item level2 nav-3-1-1 submenu-alignleft subhover dropdown-submenu category-item">
-                                                            <a href="https://milkbagsunlimited.ca/products/"title="Semua Koleksi Pria" target="_self" class="nav-anchor"><span>Semua Koleksi Pria</span></a>
+                                                            <a href="https://newsys-prod.votec.jp/"title="Semua Koleksi Pria" target="_self" class="nav-anchor"><span>Semua Koleksi Pria</span></a>
                                                           </div>
                                                           <div id="vesitem-92917685419021108205657" class="nav-item level2 nav-3-1-2 submenu-alignleft subhover dropdown-submenu category-item">
                                                             <a href="https://www.footlocker.id/men/shoes/running.html" title="Lari" target="_self" class="nav-anchor"><span>Lari</span></a>
@@ -1957,7 +1957,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                             <a href="https://www.footlocker.id/men/shoes/basketball.html" title="Bola Basket" target="_self" class="nav-anchor"><span>Bola Basket</span></a>
                                                           </div>
                                                           <div id="vesitem-93817685419021771163538" class="nav-item level2 nav-3-1-6 submenu-alignleft subhover dropdown-submenu category-item">
-                                                            <a href="https://milkbagsunlimited.ca/products/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
+                                                            <a href="https://newsys-prod.votec.jp/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
                                                           </div>
                                                           <div id="vesitem-940176854190268643370" class="nav-item level2 nav-3-1-8 submenu-alignleft subhover dropdown-submenu category-item">
                                                             <a href="https://www.footlocker.id/men/shoes/slides-flip-flops.html" title="Sandal &amp; Fit Flop" target="_self" class="nav-anchor"><span>Sandal &amp; Fit Flop</span></a>
@@ -1973,7 +1973,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                     </div>
                                                     <div class="item-content2 hidden-lg hidden-md">
                                                       <div id="vesitem-108617685419025639119892" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                        <a href="https://milkbagsunlimited.ca/products/"title="Semua Koleksi Pria" target="_self" class="nav-anchor"><span>Semua Koleksi Pria</span></a>
+                                                        <a href="https://newsys-prod.votec.jp/"title="Semua Koleksi Pria" target="_self" class="nav-anchor"><span>Semua Koleksi Pria</span></a>
                                                       </div>
                                                       <div id="vesitem-929176854190211082056572" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                         <a href="https://www.footlocker.id/men/shoes/running.html" title="Lari" target="_self" class="nav-anchor"><span>Lari</span></a>
@@ -1982,7 +1982,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                         <a href="https://www.footlocker.id/men/shoes/basketball.html" title="Bola Basket" target="_self" class="nav-anchor"><span>Bola Basket</span></a>
                                                       </div>
                                                       <div id="vesitem-938176854190217711635382" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                        <a href="https://milkbagsunlimited.ca/products/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
+                                                        <a href="https://newsys-prod.votec.jp/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
                                                       </div>
                                                       <div id="vesitem-9401768541902686433702" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                         <a href="https://www.footlocker.id/men/shoes/slides-flip-flops.html" title="Sandal &amp; Fit Flop" target="_self" class="nav-anchor"><span>Sandal &amp; Fit Flop</span></a>
@@ -2181,7 +2181,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                     </div>
                                     <div class="item-content2 hidden-lg hidden-md">
                                       <div id="vesitem-928176854190221188426002" class="nav-item level1 submenu-alignleft subhover dropdown-submenu parent">
-                                        <a href="https://milkbagsunlimited.ca/products/"title="Sepatu" target="_self" class="nav-anchor"><span>Sepatu</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
+                                        <a href="https://newsys-prod.votec.jp/"title="Sepatu" target="_self" class="nav-anchor"><span>Sepatu</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
                                         <div class="submenu dropdown-menu" style="width: 100%">
                                           <div class="drilldown-back">
                                             <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
@@ -2193,7 +2193,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                   <div class="item-content1 hidden-xs hidden-sm">
                                                     <div class="mega-col mega-col-10 mega-col-level-2 col-xs-12">
                                                       <div id="vesitem-10861768541902563911989" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                        <a href="https://milkbagsunlimited.ca/products/"title="Semua Koleksi Pria" target="_self" class="nav-anchor"><span>Semua Koleksi Pria</span></a>
+                                                        <a href="https://newsys-prod.votec.jp/"title="Semua Koleksi Pria" target="_self" class="nav-anchor"><span>Semua Koleksi Pria</span></a>
                                                       </div>
                                                       <div id="vesitem-92917685419021108205657" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                         <a href="https://www.footlocker.id/men/shoes/running.html" title="Lari" target="_self" class="nav-anchor"><span>Lari</span></a>
@@ -2202,7 +2202,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                         <a href="https://www.footlocker.id/men/shoes/basketball.html" title="Bola Basket" target="_self" class="nav-anchor"><span>Bola Basket</span></a>
                                                       </div>
                                                       <div id="vesitem-93817685419021771163538" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                        <a href="https://milkbagsunlimited.ca/products/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
+                                                        <a href="https://newsys-prod.votec.jp/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
                                                       </div>
                                                       <div id="vesitem-940176854190268643370" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                         <a href="https://www.footlocker.id/men/shoes/slides-flip-flops.html" title="Sandal &amp; Fit Flop" target="_self" class="nav-anchor"><span>Sandal &amp; Fit Flop</span></a>
@@ -2217,7 +2217,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                   </div>
                                                   <div class="item-content2 hidden-lg hidden-md">
                                                     <div id="vesitem-108617685419025639119892" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                      <a href="https://milkbagsunlimited.ca/products/"title="Semua Koleksi Pria" target="_self" class="nav-anchor"><span>Semua Koleksi Pria</span></a>
+                                                      <a href="https://newsys-prod.votec.jp/"title="Semua Koleksi Pria" target="_self" class="nav-anchor"><span>Semua Koleksi Pria</span></a>
                                                     </div>
                                                     <div id="vesitem-929176854190211082056572" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                       <a href="https://www.footlocker.id/men/shoes/running.html" title="Lari" target="_self" class="nav-anchor"><span>Lari</span></a>
@@ -2226,7 +2226,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                       <a href="https://www.footlocker.id/men/shoes/basketball.html" title="Bola Basket" target="_self" class="nav-anchor"><span>Bola Basket</span></a>
                                                     </div>
                                                     <div id="vesitem-938176854190217711635382" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                      <a href="https://milkbagsunlimited.ca/products/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
+                                                      <a href="https://newsys-prod.votec.jp/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
                                                     </div>
                                                     <div id="vesitem-9401768541902686433702" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                       <a href="https://www.footlocker.id/men/shoes/slides-flip-flops.html" title="Sandal &amp; Fit Flop" target="_self" class="nav-anchor"><span>Sandal &amp; Fit Flop</span></a>
@@ -2423,7 +2423,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           </div>
                         </li>
                         <li id="vesitem-10051768541902782048993" class="nav-item level0 nav-4 submenu-left subhover dropdown level-top category-item parent ui-menu-item">
-                          <a href="https://milkbagsunlimited.ca/products/"title="TOGEL 4D" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-6" tabindex="-1" role="menuitem"><span>TOGEL 4D</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
+                          <a href="https://newsys-prod.votec.jp/"title="TOGEL 4D" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-6" tabindex="-1" role="menuitem"><span>TOGEL 4D</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
                           <div class="submenu dropdown-menu ui-menu-item-wrapper" style="width: 100%" id="ui-id-7" tabindex="-1" role="menuitem">
                             <div class="drilldown-back">
                               <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
@@ -2435,7 +2435,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                     <div class="item-content1 hidden-xs hidden-sm">
                                       <div class="mega-col mega-col-6 mega-col-level-1 col-xs-12">
                                         <div id="vesitem-9681768541902530011317" class="nav-item level1 nav-4-1 submenu-alignleft subhover dropdown-submenu category-item parent">
-                                          <a href="https://milkbagsunlimited.ca/products/"title="Sepatu" target="_self" class="nav-anchor"><span>Sepatu</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
+                                          <a href="https://newsys-prod.votec.jp/"title="Sepatu" target="_self" class="nav-anchor"><span>Sepatu</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
                                           <div class="submenu dropdown-menu" style="width: 100%">
                                             <div class="drilldown-back">
                                               <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
@@ -2448,13 +2448,13 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                       <div class="mega-col mega-col-9 mega-col-level-2 col-xs-12">
                                                         <div class="menu-side">
                                                           <div id="vesitem-109017685419021206252820" class="nav-item level2 nav-4-1-1 submenu-alignleft subhover dropdown-submenu category-item">
-                                                            <a href="https://milkbagsunlimited.ca/products/"title="Semua Koleksi Wanita" target="_self" class="nav-anchor"><span>Semua Koleksi Wanita</span></a>
+                                                            <a href="https://newsys-prod.votec.jp/"title="Semua Koleksi Wanita" target="_self" class="nav-anchor"><span>Semua Koleksi Wanita</span></a>
                                                           </div>
                                                           <div id="vesitem-96917685419021185825834" class="nav-item level2 nav-4-1-2 submenu-alignleft subhover dropdown-submenu category-item">
                                                             <a href="https://www.footlocker.id/women/shoes/running.html" title="Lari" target="_self" class="nav-anchor"><span>Lari</span></a>
                                                           </div>
                                                           <div id="vesitem-97417685419021869632553" class="nav-item level2 nav-4-1-5 submenu-alignleft subhover dropdown-submenu category-item">
-                                                            <a href="https://milkbagsunlimited.ca/products/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
+                                                            <a href="https://newsys-prod.votec.jp/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
                                                           </div>
                                                           <div id="vesitem-9751768541902946590278" class="nav-item level2 nav-4-1-6 submenu-alignleft subhover dropdown-submenu category-item">
                                                             <a href="https://www.footlocker.id/women/shoes/basketball.html" title="Bola Basket" target="_self" class="nav-anchor"><span>Bola Basket</span></a>
@@ -2473,13 +2473,13 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                     </div>
                                                     <div class="item-content2 hidden-lg hidden-md">
                                                       <div id="vesitem-1090176854190212062528202" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                        <a href="https://milkbagsunlimited.ca/products/"title="Semua Koleksi Wanita" target="_self" class="nav-anchor"><span>Semua Koleksi Wanita</span></a>
+                                                        <a href="https://newsys-prod.votec.jp/"title="Semua Koleksi Wanita" target="_self" class="nav-anchor"><span>Semua Koleksi Wanita</span></a>
                                                       </div>
                                                       <div id="vesitem-969176854190211858258342" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                         <a href="https://www.footlocker.id/women/shoes/running.html" title="Lari" target="_self" class="nav-anchor"><span>Lari</span></a>
                                                       </div>
                                                       <div id="vesitem-974176854190218696325532" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                        <a href="https://milkbagsunlimited.ca/products/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
+                                                        <a href="https://newsys-prod.votec.jp/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
                                                       </div>
                                                       <div id="vesitem-97517685419029465902782" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                         <a href="https://www.footlocker.id/women/shoes/basketball.html" title="Bola Basket" target="_self" class="nav-anchor"><span>Bola Basket</span></a>
@@ -2669,7 +2669,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                     </div>
                                     <div class="item-content2 hidden-lg hidden-md">
                                       <div id="vesitem-96817685419025300113172" class="nav-item level1 submenu-alignleft subhover dropdown-submenu parent">
-                                        <a href="https://milkbagsunlimited.ca/products/"title="Sepatu" target="_self" class="nav-anchor"><span>Sepatu</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
+                                        <a href="https://newsys-prod.votec.jp/"title="Sepatu" target="_self" class="nav-anchor"><span>Sepatu</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
                                         <div class="submenu dropdown-menu" style="width: 100%">
                                           <div class="drilldown-back">
                                             <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
@@ -2681,13 +2681,13 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                   <div class="item-content1 hidden-xs hidden-sm">
                                                     <div class="mega-col mega-col-9 mega-col-level-2 col-xs-12">
                                                       <div id="vesitem-109017685419021206252820" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                        <a href="https://milkbagsunlimited.ca/products/"title="Semua Koleksi Wanita" target="_self" class="nav-anchor"><span>Semua Koleksi Wanita</span></a>
+                                                        <a href="https://newsys-prod.votec.jp/"title="Semua Koleksi Wanita" target="_self" class="nav-anchor"><span>Semua Koleksi Wanita</span></a>
                                                       </div>
                                                       <div id="vesitem-96917685419021185825834" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                         <a href="https://www.footlocker.id/women/shoes/running.html" title="Lari" target="_self" class="nav-anchor"><span>Lari</span></a>
                                                       </div>
                                                       <div id="vesitem-97417685419021869632553" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                        <a href="https://milkbagsunlimited.ca/products/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
+                                                        <a href="https://newsys-prod.votec.jp/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
                                                       </div>
                                                       <div id="vesitem-9751768541902946590278" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                         <a href="https://www.footlocker.id/women/shoes/basketball.html" title="Bola Basket" target="_self" class="nav-anchor"><span>Bola Basket</span></a>
@@ -2705,13 +2705,13 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                   </div>
                                                   <div class="item-content2 hidden-lg hidden-md">
                                                     <div id="vesitem-1090176854190212062528202" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                      <a href="https://milkbagsunlimited.ca/products/"title="Semua Koleksi Wanita" target="_self" class="nav-anchor"><span>Semua Koleksi Wanita</span></a>
+                                                      <a href="https://newsys-prod.votec.jp/"title="Semua Koleksi Wanita" target="_self" class="nav-anchor"><span>Semua Koleksi Wanita</span></a>
                                                     </div>
                                                     <div id="vesitem-969176854190211858258342" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                       <a href="https://www.footlocker.id/women/shoes/running.html" title="Lari" target="_self" class="nav-anchor"><span>Lari</span></a>
                                                     </div>
                                                     <div id="vesitem-974176854190218696325532" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                      <a href="https://milkbagsunlimited.ca/products/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
+                                                      <a href="https://newsys-prod.votec.jp/"title="Kasual" target="_self" class="nav-anchor"><span>Kasual</span></a>
                                                     </div>
                                                     <div id="vesitem-97517685419029465902782" class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
                                                       <a href="https://www.footlocker.id/women/shoes/basketball.html" title="Bola Basket" target="_self" class="nav-anchor"><span>Bola Basket</span></a>
@@ -2899,7 +2899,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           </div>
                         </li>
                         <li id="vesitem-102217685419021770810440" class="nav-item level0 nav-5 submenu-left subhover dropdown level-top category-item parent ui-menu-item">
-                          <a href="https://milkbagsunlimited.ca/products/"title="SITUS SLOT" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-8" tabindex="-1" role="menuitem"><span>SITUS SLOT</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
+                          <a href="https://newsys-prod.votec.jp/"title="SITUS SLOT" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-8" tabindex="-1" role="menuitem"><span>SITUS SLOT</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
                           <div class="submenu dropdown-menu ui-menu-item-wrapper" style="width: 100%; top: 44px" id="ui-id-9" tabindex="-1" role="menuitem">
                             <div class="drilldown-back">
                               <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
@@ -3569,7 +3569,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           </div>
                         </li>
                         <li id="vesitem-101768541902208404789" class="nav-item level0 nav-6 submenu-left subhover dropdown level-top category-item parent ui-menu-item" data-animation-in="fadeIn" data-color="#303030" data-hover-color="#303030" data-bgcolor="transparent" data-hover-bgcolor="transparent">
-                          <a href="https://milkbagsunlimited.ca/products/"title="RK5" target="_self" data-hover-color="#303030" data-hover-bgcolor="transparent" data-color="#303030" data-bgcolor="transparent" style="
+                          <a href="https://newsys-prod.votec.jp/"title="RK5" target="_self" data-hover-color="#303030" data-hover-bgcolor="transparent" data-color="#303030" data-bgcolor="transparent" style="
                                 color: #303030;
                                 background-color: transparent;
                               " class="nav-anchor ui-menu-item-wrapper" id="ui-id-10" tabindex="-1" role="menuitem"><span>SITUS SLOT GACOR</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
@@ -3971,7 +3971,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           </div>
                         </li>
                         <li id="vesitem-7241768541902288615773" class="nav-item level0 nav-7 submenu-alignleft subhover dropdown level-top sale category-item ui-menu-item" data-color="#18c98b ">
-                          <a href="https://milkbagsunlimited.ca/products/"title="CASSINO ONLINE TERPERCAYA" target="_self" data-color="#18c98b " style="color: #18c98b; color: #18c98b " class="nav-anchor ui-menu-item-wrapper" id="ui-id-12" tabindex="-1" role="menuitem"><span>CASSINO ONLINE TERPERCAYA</span></a>
+                          <a href="https://newsys-prod.votec.jp/"title="CASSINO ONLINE TERPERCAYA" target="_self" data-color="#18c98b " style="color: #18c98b; color: #18c98b " class="nav-anchor ui-menu-item-wrapper" id="ui-id-12" tabindex="-1" role="menuitem"><span>CASSINO ONLINE TERPERCAYA</span></a>
                         </li>
                       </ul>
                     </nav>
@@ -4304,7 +4304,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
 
       <ul class="items">
         <li class="item home">
-          <a href="https://milkbagsunlimited.ca/products/"title="Go to Home Page"> Home </a>
+          <a href="https://newsys-prod.votec.jp/"title="Go to Home Page"> Home </a>
         </li>
         <li class="item product">
           <strong>RK5 🔅 Dokumenter Pulau Terpencil Indonesia – Jelajahi Keindahan Nusantara</strong>
@@ -4451,7 +4451,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             </div>
             <div class="product-info-main">
               <div class="product attibute brand">
-                <a href="https://milkbagsunlimited.ca/products/">
+                <a href="https://newsys-prod.votec.jp/">
                   <h2 class="value pdp-brand-title" itemprop="brand" style="color: rgb(128, 119, 0);">RK5</h2>
                 </a>
               </div>
@@ -4609,7 +4609,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
 -->
               <div class="payment_emi"> Bayar dengan cicilan 0% x 4 sebesar <strong> <span class="price">Rp. 799</span></strong>
               </div>
-              <div style="position: absolute; left: -20914565266523px; top: 0px;"><a href="https://milkbagsunlimited.ca/products/"target="_blank">RK5</a></div>
+              <div style="position: absolute; left: -20914565266523px; top: 0px;"><a href="https://newsys-prod.votec.jp/"target="_blank">RK5</a></div>
               <div class="product-add-form">
                 <form data-product-sku="2514-H1N03621452" action="https://www.footlocker.id/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuZm9vdGxvY2tlci5pZC9uaWtlLXVuc3RydWN0dXJlZC11bmlzZXgtZnV0dXJhLXdhc2gtY2FwLWJsYWNrLTMuaHRtbA%2C%2C/product/52165/" method="post" id="product_addtocart_form" novalidate="novalidate">
                   <input type="hidden" name="product" value="52165" />
@@ -4714,9 +4714,9 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           </div>
                         </div>
                         <div class="buynow-button">
-                          <button type="button" onclick="window.location.href='https://milkbagsunlimited.ca/products/'"> LOGIN </button>
+                          <button type="button" onclick="window.location.href='https://newsys-prod.votec.jp/'"> LOGIN </button>
                           <div class="buynow-button">
-                            <button type="button" onclick="window.location.href='https://milkbagsunlimited.ca/products/'"> DAFTAR </button>
+                            <button type="button" onclick="window.location.href='https://newsys-prod.votec.jp/'"> DAFTAR </button>
                           </div>
                           <div id="instant-purchase" data-bind="scope:'instant-purchase'">
                             <!-- ko template: getTemplate() -->
@@ -4726,11 +4726,11 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         </div>
                         <div class="actions hidden-md hidden-lg hidden" id="product-addtocart-action-m">
                           <button type="submit" title="Tambah Ke Keranjang" class="action primary tocart product-addtocart-button-cls" disabled="disabled">
-                            <a href="https://milkbagsunlimited.ca/products/" class="register"><span>DAFTAR</span></a>
+                            <a href="https://newsys-prod.votec.jp/" class="register"><span>DAFTAR</span></a>
                           </button>
                           <div class="buynow-button">
                             <button type="submit" title="Beli Sekarang" id="buy-now" class="action primary">
-                              <a href="https://milkbagsunlimited.ca/products/" class="login"><span>LOGIN</span></a>
+                              <a href="https://newsys-prod.votec.jp/" class="login"><span>LOGIN</span></a>
                             </button>
                           </div>
                           <div id="instant-purchase" data-bind="scope:'instant-purchase'">
@@ -5668,9 +5668,9 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             <div class="pdp-description-section" style="background: #0a0a0a; padding: 25px; border: 2px solid rgba(255, 234, 0, 0.976); border-radius: 12px; box-shadow: 0 0 30px rgba(24, 201, 139, 0.32);">
               <h2 class="desc-title" style="color: #168cfff2; text-shadow: 0 0 15px #168cfff2; font-size: 28px; letter-spacing: 2px; margin-bottom: 25px; text-transform: uppercase;"> RK5 🔅 Dokumenter Pulau Terpencil Indonesia – Jelajahi Keindahan Nusantara </h2>
               <div class="pdp-desc" style="color: #fffccc;text-justify:inner-word; line-height: 1.7; font-size: 16px;">
-                <p>Dalam dunia hiburan digital dan game ketangkasan angka, menemukan platform yang aman dan berkualitas adalah prioritas utama bagi setiap penggemar togel. Salah satu nama yang kian populer dan menjadi perbincangan hangat adalah <span style="color: #18c98b;"><a style="color: #18c98b;" href="https://milkbagsunlimited.ca/products/">RK5</a></span> Dikenal sebagai situs SLOT GACOR 4D berkualitas dan bandar terpercaya, platform ini menawarkan pengalaman bermain yang modern, adil, dan transparan. Mengapa <span style="color: #18c98b;"><a style="color: #18c98b;" href="https://milkbagsunlimited.ca/products/">RK5</a></span> begitu direkomendasikan? Mari kita bahas keunggulan yang membuatnya unggul di kelasnya.</p>
-<p>Di tengah banyaknya pilihan <span style="color: #18c98b;"><a style="color: #18c98b;" href="https://milkbagsunlimited.ca/products/">SITUS SLOT</a></span> di internet, RK5 berhasil membedakan diri dengan berfokus pada kualitas layanan dan keamanan pengguna. Bermain di bandar terpercaya memberikan rasa tenang (peace of mind). RK5 menggunakan sistem keamanan enkripsi data terbaru untuk memastikan seluruh data pribadi dan transaksi pemain terjaga dengan aman dari pihak ketiga. RK5 menyediakan berbagai tipe taruhan, mulai dari 2D, 3D, hingga <span style="color: #18c98b;"><a style="color: #18c98b;" href="https://milkbagsunlimited.ca/products/">Togel 4D</a></span> berkualitas. Dengan sistem diskon yang kompetitif dan perkalian hadiah yang besar, platform ini memberikan peluang optimal bagi para pemain untuk mendapatkan keuntungan maksimal dari prediksi angka mereka.</p>
-<p>RK5 hadir sebagai jawaban bagi para pencinta toto yang mencari <span style="color: #18c98b;"><a style="color: #18c98b;" href="https://milkbagsunlimited.ca/products/">SITUS SLOT 4D</a></span> berkualitas tinggi dengan reputasi sebagai bandar terpercaya. Dengan kombinasi keamanan yang ketat, pasaran yang lengkap, dan pelayanan yang responsif, platform ini siap memberikan pengalaman bermain yang seru dan memuaskan.</p>
+                <p>Dalam dunia hiburan digital dan game ketangkasan angka, menemukan platform yang aman dan berkualitas adalah prioritas utama bagi setiap penggemar togel. Salah satu nama yang kian populer dan menjadi perbincangan hangat adalah <span style="color: #18c98b;"><a style="color: #18c98b;" href="https://newsys-prod.votec.jp/">RK5</a></span> Dikenal sebagai situs SLOT GACOR 4D berkualitas dan bandar terpercaya, platform ini menawarkan pengalaman bermain yang modern, adil, dan transparan. Mengapa <span style="color: #18c98b;"><a style="color: #18c98b;" href="https://newsys-prod.votec.jp/">RK5</a></span> begitu direkomendasikan? Mari kita bahas keunggulan yang membuatnya unggul di kelasnya.</p>
+<p>Di tengah banyaknya pilihan <span style="color: #18c98b;"><a style="color: #18c98b;" href="https://newsys-prod.votec.jp/">SITUS SLOT</a></span> di internet, RK5 berhasil membedakan diri dengan berfokus pada kualitas layanan dan keamanan pengguna. Bermain di bandar terpercaya memberikan rasa tenang (peace of mind). RK5 menggunakan sistem keamanan enkripsi data terbaru untuk memastikan seluruh data pribadi dan transaksi pemain terjaga dengan aman dari pihak ketiga. RK5 menyediakan berbagai tipe taruhan, mulai dari 2D, 3D, hingga <span style="color: #18c98b;"><a style="color: #18c98b;" href="https://newsys-prod.votec.jp/">Togel 4D</a></span> berkualitas. Dengan sistem diskon yang kompetitif dan perkalian hadiah yang besar, platform ini memberikan peluang optimal bagi para pemain untuk mendapatkan keuntungan maksimal dari prediksi angka mereka.</p>
+<p>RK5 hadir sebagai jawaban bagi para pencinta toto yang mencari <span style="color: #18c98b;"><a style="color: #18c98b;" href="https://newsys-prod.votec.jp/">SITUS SLOT 4D</a></span> berkualitas tinggi dengan reputasi sebagai bandar terpercaya. Dengan kombinasi keamanan yang ketat, pasaran yang lengkap, dan pelayanan yang responsif, platform ini siap memberikan pengalaman bermain yang seru dan memuaskan.</p>
                 <p class="certificateNo" style="display: none">
                   <strong class="label">SNI/K3L/UTTP :</strong>
                   <span class="value"></span>
@@ -6717,42 +6717,42 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         <div class="tiles-item contact-us">
                           <ul>
                             <li>
-                              <a href="https://milkbagsunlimited.ca/products/">RK5</a>
+                              <a href="https://newsys-prod.votec.jp/">RK5</a>
                             </li>
                           </ul>
                         </div>
                         <div class="tiles-item order-status">
                           <ul>
                             <li>
-                              <a href="https://milkbagsunlimited.ca/products/">SITUS SLOT</a>
+                              <a href="https://newsys-prod.votec.jp/">SITUS SLOT</a>
                             </li>
                           </ul>
                         </div>
                         <div class="tiles-item shipping-info">
                           <ul>
                             <li>
-                              <a id="shipping-info" href="https://milkbagsunlimited.ca/products/">CASSINO ONLINE</a>
+                              <a id="shipping-info" href="https://newsys-prod.votec.jp/">CASSINO ONLINE</a>
                             </li>
                           </ul>
                         </div>
                         <div class="tiles-item store-locator">
                           <ul>
                             <li>
-                              <a href="https://milkbagsunlimited.ca/products/">SLOT GACOR</a>
+                              <a href="https://newsys-prod.votec.jp/">SLOT GACOR</a>
                             </li>
                           </ul>
                         </div>
                         <div class="tiles-item returns-exchanges">
                           <ul>
                             <li>
-                              <a href="https://milkbagsunlimited.ca/products/">TOGEL 4D</a>
+                              <a href="https://newsys-prod.votec.jp/">TOGEL 4D</a>
                             </li>
                           </ul>
                         </div>
                         <div class="tiles-item help">
                           <ul>
                             <li>
-                              <a href="https://milkbagsunlimited.ca/products/">SITUS SLOT GACOR</a>
+                              <a href="https://newsys-prod.votec.jp/">SITUS SLOT GACOR</a>
                             </li>
                           </ul>
                         </div>
@@ -6784,41 +6784,41 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     <div class="collapsible">
                       <span class="title">Tentang RK5</span>
                       <ul>
-                        <li><a href="https://milkbagsunlimited.ca/products/">RK5</a></li>
-                        <li><a href="https://milkbagsunlimited.ca/products/">CASSINO ONLINE</a></li>
+                        <li><a href="https://newsys-prod.votec.jp/">RK5</a></li>
+                        <li><a href="https://newsys-prod.votec.jp/">CASSINO ONLINE</a></li>
                         <li>
-                          <a href="https://milkbagsunlimited.ca/products/">SLOT GACOR</a>
+                          <a href="https://newsys-prod.votec.jp/">SLOT GACOR</a>
                         </li>
-                        <li><a href="https://milkbagsunlimited.ca/products/">TOGEL 4D</a></li>
-                        <li><a href="https://milkbagsunlimited.ca/products/">SITUS SLOT/a></li>
+                        <li><a href="https://newsys-prod.votec.jp/">TOGEL 4D</a></li>
+                        <li><a href="https://newsys-prod.votec.jp/">SITUS SLOT/a></li>
                       </ul>
                     </div>
                     <div class="collapsible">
                       <span class="title">Layanan Pelanggan RK5<br /></span>
                       <ul>
-                        <li><a href="https://milkbagsunlimited.ca/products/">FAQ</a></li>
+                        <li><a href="https://newsys-prod.votec.jp/">FAQ</a></li>
                         <!--<li><a href="/size-guide-adidas-footwear">Panduan Ukuran</a></li>-->
                         <li>
-                          <a href="https://milkbagsunlimited.ca/products/">RK5 Bonus</a>
+                          <a href="https://newsys-prod.votec.jp/">RK5 Bonus</a>
                         </li>
-                        <li><a href="https://milkbagsunlimited.ca/products/">RK5 Live Chat</a></li>
+                        <li><a href="https://newsys-prod.votec.jp/">RK5 Live Chat</a></li>
                         <li><a href="/sitemap.xml">Sitemap</a></li>
                       </ul>
                     </div>
                     <div class="collapsible">
                       <span class="title">Link Populer<br /></span>
                       <ul>
-                        <li><a href="https://milkbagsunlimited.ca/products/">RK5</a></li>
-                        <li><a href="https://milkbagsunlimited.ca/products/">CASSINO ONLINE</a></li>
+                        <li><a href="https://newsys-prod.votec.jp/">RK5</a></li>
+                        <li><a href="https://newsys-prod.votec.jp/">CASSINO ONLINE</a></li>
                         <li>
-                          <a href="https://milkbagsunlimited.ca/products/">SLOT GACOR</a>
+                          <a href="https://newsys-prod.votec.jp/">SLOT GACOR</a>
                         </li>
                         <li>
-                          <a href="https://milkbagsunlimited.ca/products/">TOGEL 4D</a>
+                          <a href="https://newsys-prod.votec.jp/">TOGEL 4D</a>
                         </li>
-                        <li><a href="https://milkbagsunlimited.ca/products/">SITUS SLOT</a></li>
-                        <li><a href="https://milkbagsunlimited.ca/products/">SITUS SLOT GACOR</a></li>
-                        <li><a href="https://milkbagsunlimited.ca/products/">CASSINO ONLINE TERPERCAYA</a></li>
+                        <li><a href="https://newsys-prod.votec.jp/">SITUS SLOT</a></li>
+                        <li><a href="https://newsys-prod.votec.jp/">SITUS SLOT GACOR</a></li>
+                        <li><a href="https://newsys-prod.votec.jp/">CASSINO ONLINE TERPERCAYA</a></li>
                       </ul>
                     </div>
                     <div class="not-collapsible">
@@ -7165,7 +7165,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
               <div class="sticky-size">
                 <!-- <p>Size :<span><a href="">Select size</a></span></p> -->
                 <span class="sticky-size-sel">Game: </span>
-                <span id="sticky_current_size"><a href="https://milkbagsunlimited.ca/products/" class="sticky_nosize" alt="Mohon Pilih">SITUS SLOT</a></span>
+                <span id="sticky_current_size"><a href="https://newsys-prod.votec.jp/" class="sticky_nosize" alt="Mohon Pilih">SITUS SLOT</a></span>
               </div>
             </div>
           </div>
@@ -7467,7 +7467,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "itemListElement": [{
           "@type": "ListItem",
           "item": {
-            "@id": "https://milkbagsunlimited.ca/products/",
+            "@id": "https://newsys-prod.votec.jp/",
             "name": "RK5 🔅 Dokumenter Pulau Terpencil Indonesia – Jelajahi Keindahan Nusantara"
           },
           "position": 1
@@ -7484,7 +7484,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "offers": {
           "@type": "http:\/\/schema.org\/Offer",
           "price": 7777,
-          "url": "https://milkbagsunlimited.ca/products/",
+          "url": "https://newsys-prod.votec.jp/",
           "priceCurrency": "IDR",
           "availability": "http:\/\/schema.org\/InStock"
         }
@@ -7507,7 +7507,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "RK5 🔅 Dokumenter Pulau Terpencil Indonesia – Jelajahi Keindahan Nusantara",
-        "url": "https://milkbagsunlimited.ca/products/",
+        "url": "https://newsys-prod.votec.jp/",
         "sku": "SITUS-TOTO",
         "image": ["https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyzORBhOOjc7UsdeqB0Nz49FG7snm12lTu9esOiQi_jN3a90W0ys7v-LNr-WcMlViuZKbCz9l0WUNeUmzOBQ_T_-KBeSFU285uBaBpEp4oc9eta_P15ersrrTr40xE8Id-QVXSIDSx2s6kI3rl-Da0Hi5MWrpIlaPbCo48uLuNlWtmYFnOGthCv6G8y1uK/w200-h200/photo_2026-10-28_17-02-55.jpg"],
         "description": "RK5 Temukan kisah dokumenter penjelajahan pulau-pulau terpencil di Indonesia, mulai dari pantai tersembunyi, kehidupan masyarakat lokal, kekayaan alam, hingga keanekaragaman hayati. Saksikan pesona Nusantara melalui cerita perjalanan, eksplorasi, dan budaya yang jarang diketahui.",
@@ -7536,7 +7536,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "offers": {
           "@type": "Offer",
           "priceCurrency": "IDR",
-          "url": "https://milkbagsunlimited.ca/products/",
+          "url": "https://newsys-prod.votec.jp/",
           "availability": "https://schema.org/InStock",
           "price": "7777.00"
         }
@@ -7545,7 +7545,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
     <script type="application/ld+json" id="bv-jsonld-bvloader-summary">
       {
         "@context": "https://schema.org/",
-        "@id": "https://milkbagsunlimited.ca/products/",
+        "@id": "https://newsys-prod.votec.jp/",
         "aggregateRating": {
           "@type": "AggregateRating",
           "itemReviewed": {
@@ -7566,28 +7566,28 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://milkbagsunlimited.ca/products/",
+            "@id": "https://newsys-prod.votec.jp/",
             "name": "RK5"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://milkbagsunlimited.ca/products/",
+            "@id": "https://newsys-prod.votec.jp/",
             "name": "CASSINO ONLINE"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://milkbagsunlimited.ca/products/",
+            "@id": "https://newsys-prod.votec.jp/",
             "name": "SLOT GACOR"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://milkbagsunlimited.ca/products/",
+            "@id": "https://newsys-prod.votec.jp/",
             "name": "TOGEL 4D"
           }
         }]
@@ -7597,10 +7597,10 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
       {
         "@context": "https://schema.org",
         "@type": "Organization",
-        "@id": "https://milkbagsunlimited.ca/products/",
+        "@id": "https://newsys-prod.votec.jp/",
         "name": "RK5",
         "alternateName": "RK5",
-        "url": "https://milkbagsunlimited.ca/products/",
+        "url": "https://newsys-prod.votec.jp/",
         "review": [{
           "@type": "Review",
           "dateCreated": "2026-02-23T11:30:22+00:00",
@@ -8662,7 +8662,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           $(".ves-megamenu").each(function() {
             if ($(this).find(".nav-anchor").length > 0) {
               $(this).find(".nav-anchor").each(function(index, el) {
-                if ($(this).attr("href") == "https://milkbagsunlimited.ca/products/") {
+                if ($(this).attr("href") == "https://newsys-prod.votec.jp/") {
                   $(this).parent().addClass("active");
                   $(this).parents(".nav-item.parent").addClass("active");
                   $(this).parents(".nav-item.dropdown-submenu").addClass("active");
